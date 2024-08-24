@@ -4,8 +4,11 @@ def print_multiplication_table():
             print(f"{i} x {j} = {i * j}")
         print()
 
+
 def main():
+    print()
     print_multiplication_table()
+
 
 if __name__ == "__main__":
     main()
